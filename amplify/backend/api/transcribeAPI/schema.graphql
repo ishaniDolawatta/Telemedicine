@@ -1,0 +1,7 @@
+type Song @model {
+    id: ID!
+    userId: String!
+    description: String!
+    audioFilePath: String!
+    transcribeText: String!
+}

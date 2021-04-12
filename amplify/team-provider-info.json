@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-telemedicine-dev-190444-authRole",
+      "UnauthRoleArn": "arn:aws:iam::748909003339:role/amplify-telemedicine-dev-190444-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::748909003339:role/amplify-telemedicine-dev-190444-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-telemedicine-dev-190444-deployment",
+      "UnauthRoleName": "amplify-telemedicine-dev-190444-unauthRole",
+      "StackName": "amplify-telemedicine-dev-190444",
+      "StackId": "arn:aws:cloudformation:eu-west-2:748909003339:stack/amplify-telemedicine-dev-190444/b8ef8270-7e80-11eb-bc9b-06deb714bcea",
+      "AmplifyAppId": "dumzne6gfn9sr"
+    },
+    "categories": {
+      "auth": {
+        "telemedicine28e408f2": {}
+      },
+      "storage": {
+        "telemedicinedbff0522": {
+          "bucketName": "amplify-telemedicine-dev-190444-deployment",
+          "region": "eu-west-2"
+        }
+      }
+    }
+  }
+}
